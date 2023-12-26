@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import bannerImg from "@/assets/avatar.svg";
+import bannerImg from "@/assets/avatar.png";
 import { FaGithub, FaYoutube, FaDribbble } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
